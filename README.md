@@ -2,7 +2,7 @@
 - [GitHub](https://github.com/mehdi6509)
 - [RESUME](https://mehdi6509.github.io/)
 - [SOP](https://mehdi6509.github.io/SOP/)
-- [CERTIFICATES](https://mehdi6509.github.io/Certficates/)
+- [CERTIFICATES](https://mehdi6509.github.io/Certificates/)
 
 ---------------------
 ## روز و ساعت ارائه دروس
