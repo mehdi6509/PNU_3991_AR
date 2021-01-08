@@ -4,6 +4,10 @@
 - [SOP](https://mehdi6509.github.io/SOP/)
 - [CERTIFICATES](https://github.com/mehdi6509/Certificates)
 
+بخش عمومی
+
+فرم های ارزیابی
+https://github.com/mehdi6509/PNU_3991_AR/blob/main/general/FH_CV_CheckList_AR_3991.pdf
 ---------------------
 ## روز و ساعت ارائه دروس
 <div dir="ltr">
