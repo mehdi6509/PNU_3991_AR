@@ -11,7 +11,7 @@
 فرم های ارزیابی (https://github.com/mehdi6509/PNU_3991_AR/blob/main/general/FH_CV_CheckList_AR_3991.pdf)
 
 ---------------------
-<div dir="rtl">
+<div dir="ltr">
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
