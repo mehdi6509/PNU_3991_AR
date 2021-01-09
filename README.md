@@ -11,7 +11,7 @@
 
 ---------------------
 ## روز و ساعت ارائه دروس
-<div dir="ltr">
+<div dir="rtl">
 <table style="width:100%">
   <tr>
     <th >16-18</th>
